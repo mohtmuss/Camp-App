@@ -1,0 +1,16 @@
+.phoneWrapper {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.phone {
+  background-color: #1e6b45;
+  width: 390px;
+  height: 844px;
+  border-radius: 40px;
+  border: 8px solid #1a1a1a;
+  overflow: hidden;
+}
